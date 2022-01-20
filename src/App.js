@@ -1,6 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
-import Switch from './Components/button';
 import './App.css';
 
 
@@ -65,7 +63,7 @@ export default function App() {
           rep={key.report}
           
         />
-       
+  
       })}
       
     </div>
