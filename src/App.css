@@ -30,7 +30,7 @@ body {
   cursor: pointer;
   border-radius: 10px;
   border: 2px solid #0000ff36;
-   transition-duration: 0.5s;
+   transition-duration: 0.8s;
 }
 
 .container:hover {
