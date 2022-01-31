@@ -30,7 +30,7 @@ body {
   cursor: pointer;
   border-radius: 10px;
   border: 2px solid #0000ff36;
-   transition-duration: 0.8s;
+  transition-duration: 0.8s;
 }
 
 .container:hover {
@@ -38,6 +38,7 @@ body {
   height: 600px;
   border-radius: 25px; 
   font-size: 17px;
+  transition-duration: 0.8s;
 }
 
 button {
@@ -85,12 +86,13 @@ button:hover {
     border: 1px solid #0000ffc0;
     justify-items: center;
     background-color: #ffffff69;
+    transition-duration: 0.8s;
   }
   .container:hover {
     cursor: pointer;
     width: 500px;
     height: 485px;
-    transition-duration: 0.5s;
+    transition-duration: 0.8s;
     font-size: 14px;
   }
 
@@ -137,12 +139,13 @@ button:hover {
     height: 410px;
     border: 1px solid #0000ffc0;
     justify-items: center;
+    transition-duration: 0.8s;
   }
   .container:hover {
     cursor: pointer;
     width: 355px;
     height: 475px;
-    transition-duration: 0.5s;
+    transition-duration: 0.8s;
     font-size: 14px;
   }
 
